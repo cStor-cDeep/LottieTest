@@ -4,7 +4,7 @@ Lottie项目地址：[https://github.com/airbnb/lottie-android](https://github.c
 ***
 首先先无耻的把我自己写的demo程序和源码放上来。
 * Demo体验apk下载地址: http://fir.im/5j4e
-*Demo程序的github地址 ：   https://github.com/panacena/LottieTest/
+* Demo程序的github地址 ：   https://github.com/panacena/LottieTest/
 
 
 ###Lottie如何使用？
