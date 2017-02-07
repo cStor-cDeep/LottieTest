@@ -67,11 +67,11 @@ dependencies {
 ***
 #####三、Lottie进阶，如何更加高效和方便的实用？
 
-1.最简单的使用方式就是上方直接在xml中定义的方式。
-2.使用代码的方式，支持从assets目录中直接读取json文件、json字符串的方式、stream流的方式等
-
+* 最简单的使用方式就是上方直接在xml中定义的方式。
+* 使用代码的方式，支持从assets目录中直接读取json文件、json字符串的方式、stream流的方式等
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2825714-5575e563871db68b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-3.从网络获取json文件，直接显示动画。**这种方式很炫，你就可以不用不更新apk就不动声色的定期更新你的动画了。**
+
+* 从网络获取json文件，直接显示动画。**这种方式很炫，你就可以不用不更新apk就不动声色的定期更新你的动画了。**
 下方是我写的一个小demo，使用okhttp访问网络上一段json文件，然后显示动画。
 ```
 client.newCall(request).enqueue(new Callback() {
