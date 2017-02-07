@@ -3,7 +3,7 @@ Lottie是Airbnb开源的一个支持 Android、iOS 以及 ReactNative，利用js
 Lottie项目地址：[https://github.com/airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 ***
 首先先无耻的把我自己写的demo程序和源码放上来。
-* Demo体验apk下载地址: http://fir.im/5j4e
+* Demo体验apk下载地址:   http://www.chenailing.cn/app-debug.apk
 * Demo程序的github地址 ：   https://github.com/panacena/LottieTest/
 
 
