@@ -11,7 +11,7 @@ Lottie项目地址：[https://github.com/airbnb/lottie-android](https://github.c
 #####一、Lottie能干什么？
 在回答Lottie能干什么之前，我们先想下如下的动画如何实现？
 
-![如何实现上方的动画效果?](http://upload-images.jianshu.io/upload_images/2825714-bf5ca464398b1755.gif?imageMogr2/auto-orient/strip)
+![如何实现上方的动画效果?](https://raw.githubusercontent.com/panacena/LottieTest/master/gif/test.gif)
 ***
 我想大概有几种方式:
 * 使用帧动画。这种方式固然可行，但是一个需要动画添加很多张图片，势必会导致apk体积变大，并且还要根据不同的尺寸进行适配。
@@ -100,8 +100,8 @@ client.newCall(request).enqueue(new Callback() {
 #####四、Lottie例子程序
 为了更好的让你了解这个库，我写了一个简单的demo，请大家帮忙点star  ! 
 
-Demo体验apk下载地址: http://fir.im/5j4e
-Demo程序的github地址 ：  https://github.com/panacena/LottieTest/
+* Demo体验apk下载地址: http://fir.im/5j4e
+* Demo程序的github地址 ：  https://github.com/panacena/LottieTest/
 
 
 ***
